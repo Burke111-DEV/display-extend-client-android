@@ -37,5 +37,7 @@ The Display Extend Android Client project extends its gratitude to the following
 
 - [Android SDK Platform-Tools](https://developer.android.com/studio/releases/platform-tools): Acknowledgements to the Android SDK Platform-Tools, which are utilized in this project for various development and debugging tasks, such as device communication, adb commands, and more.
 
+- [ws-avc-player](https://github.com/matijagaspar/ws-avc-player) Library used on the client side to receive and render h264 frame data. It provides valuable functionality for efficient video playback and enhances the overall performance of the client application.
+
 Please note that the Display Extend Android Client project does not claim ownership or endorse these tools directly.
 
