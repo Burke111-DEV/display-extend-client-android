@@ -1,6 +1,6 @@
 # Display Extend Android Client
 
-Display Extend Android Client is an Android application that serves as a client for the Display Extend Server project. It allows you to extend your computer screen to your Android device wirelessly, enabling you to use your Android device as an additional display.
+Display Extend Android Client is an Android application that serves as a client for the Display Extend Server project. It allows you to extend your computer screen to your Android device over USB, enabling you to use your Android device as an additional display.
 
 To use this project, you will also need to set up the Display Extend Server. The Display Extend Server project can be found at [Display Extend Server](https://github.com/Burke111-DEV/display-extend-server). Please follow the instructions provided in the server repository to set up and configure the server properly.
 
